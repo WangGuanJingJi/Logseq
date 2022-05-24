@@ -1,3 +1,4 @@
+public:: ture
 src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
 type:: logseq theme
 
