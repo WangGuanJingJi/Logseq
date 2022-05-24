@@ -1,0 +1,22 @@
+- ``` 
+  title: 网站和软件分享
+  time:  12-25
+  date:  2022-04-30 12:25:45
+  categories:
+  - 软件分享
+  tags: 
+  - 软件分享
+  ```
+- 记录一些好用的软件和网站使用！
+  
+  随缘更新！
+  
+  <!-- more -->
+- # 网站
+  1. [HiFiNi 音乐磁场](https://www.hifini.com/?ref=www.9eip.com) 无损音乐下载,高品质音乐下载,百度云网盘下载
+  2.
+- # 软件
+  
+  1. [恒星播放器](https://www.appinn.com/stellarplayer/  ) 2022-04-30
+  
+  2. [Antdownload网盘下载器](https://www.haitangw.net/2488.html/) 2022-05-01

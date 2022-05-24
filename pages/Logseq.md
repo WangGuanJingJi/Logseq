@@ -1,0 +1,12 @@
+- [【神器】笔记软件Logseq之mac版 win版 安卓版 linux版安装包下载地址 - 知乎](https://zhuanlan.zhihu.com/p/476782731 "【神器】笔记软件Logseq之mac版 win版 安卓版 linux版安装包下载地址 - 知乎")
+  安卓版我下了很多都是白屏，多试下看哪个安卓版能用！
+- 文字教程[【神器】自由和高效率的终极笔记软件Logseq（序章） - 知乎](https://zhuanlan.zhihu.com/p/438452843 "【神器】自由和高效率的终极笔记软件Logseq（序章） - 知乎")
+- 这篇教程不错[Logseq小白系列教程入门篇一 - 知乎](https://zhuanlan.zhihu.com/p/343854552 "Logseq小白系列教程入门篇一 - 知乎")
+- [Logseq中文社区]()
+- [[logseq-插件]]
+- [[LogseqCSS]]
+- [[Logseq安卓]]
+- [双链笔记软件推荐：Logseq 和它的五种用法](https://sspai.com/post/69503)
+-
+- Logsea 内嵌视频
+-
