@@ -127,6 +127,9 @@
  {:block/name "logseq theme",
   :block/created-at 1653396518411,
   :block/updated-at 1653396518411}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653403053183,
+  :block/updated-at 1653403053183}
  {:block/name "now",
   :block/created-at 1653398846730,
   :block/updated-at 1653398846730}
@@ -136,6 +139,12 @@
  {:block/name "todo",
   :block/created-at 1653398846730,
   :block/updated-at 1653398846730}
+ {:block/name "tue, 2022/05",
+  :block/created-at 1653403117845,
+  :block/updated-at 1653403117845}
+ {:block/name "tue, 2022/05/24",
+  :block/created-at 1653403083670,
+  :block/updated-at 1653403101206}
  {:block/name "wait",
   :block/created-at 1653398846730,
   :block/updated-at 1653398846730}
