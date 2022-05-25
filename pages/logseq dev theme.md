@@ -11,6 +11,7 @@ id:: 610173e1-964e-4fe6-8e57-ac177a2f1522
 - `Inline Code` ^^Highlighted^^ Normal Text,  _italic texts_ and tag #[[Logseq theme]]
 - Some text that will be referenced
   id:: 60d34662-6747-46cd-a790-6dcb691b0256
+  collapsed:: true
 	- LATER [#A] high priority task
 	  waiting:: 1624459006771
 	  later:: 1624459014212
