@@ -1,0 +1,3 @@
+- logseq-dev-theme https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/custom.css
+- logseq-dracula https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/logseq-dracula-custom.css
+-
