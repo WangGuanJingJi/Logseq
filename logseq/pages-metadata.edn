@@ -96,7 +96,7 @@
   :block/updated-at 1654142353970}
  {:block/name "thu, 06/02/2022",
   :block/created-at 1654142287456,
-  :block/updated-at 1654142287456}
+  :block/updated-at 1654183290020}
  {:block/name "todo",
   :block/created-at 1653398846730,
   :block/updated-at 1653398846730}
@@ -160,6 +160,9 @@
  {:block/name "日刊10-年2022-月6-日1 周23周三",
   :block/created-at 1654152486275,
   :block/updated-at 1654152486275}
+ {:block/name "日刊11-年2022-月6-日2 周23周四",
+  :block/created-at 1654183290019,
+  :block/updated-at 1654184781546}
  {:block/name "日刊2-年2022-月5-日24 周22周二",
   :block/created-at 1654152486414,
   :block/updated-at 1654152486414}
