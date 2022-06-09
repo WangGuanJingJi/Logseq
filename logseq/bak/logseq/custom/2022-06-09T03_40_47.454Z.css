@@ -17,3 +17,19 @@
   font-family: Genshin;
 }
 
+[title="Change from TODO to DOING"] {
+    background-color: red;
+    color: blue;
+    visibility: visible;
+    display:inline-block;  
+    margin: 0 5px 0 20px;
+    padding: 0 0 0 0px;
+    }
+[title="Change from DOING to TODO"] {
+    color: var(--text-accent);
+    background-color: var(--marker-switch-bgcolor);
+    opacity: 0.8;
+ display:inline-block;  
+    margin: 0 5px 0 20px;
+    padding: 0 0 0 0px;
+}   
