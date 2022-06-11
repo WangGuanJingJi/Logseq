@@ -1,0 +1,28 @@
+/* @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@latest/custom.css"); */
+
+@import url("https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/custom.css");
+@font-face {
+  font-family: "Genshin";
+  font-style: normal;
+  font-weight: normal;
+  src: url(https://static.wikia.nocookie.net/gensin-impact/images/6/65/Genshin_Impact_Font.woff)
+    format("truetype");
+}
+
+.genshin {
+  font-family: Genshin;
+}
+
+/* === 外部链接加图标 ====*/ 
+a.external-link {border-bottom: 0px;}
+a.external-link:after {
+    display:inline-block;
+    content:"";
+    width: 21px;
+    height:16px;
+    background: 
+        transparent
+        50% 200%/54% 
+        url('https://svgshare.com/i/SWJ.svg') no-repeat;        
+    filter: invert(3%) sepia(100%) saturate(1920%) hue-rotate(0deg) brightness(1419%) contrast(249%);
+}

@@ -124,9 +124,8 @@
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
  :feature/enable-journals? true
- :default-home {:page "刊" :sidebar "contents"}
+ :default-home {:page "journals" :sidebar "contents"}
  :ui/show-brackets? true
- :journal/page-title-format "yyyy-MM-dd"
+ :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["刊" "日刊" "周刊" "杨超越"]
-}
+ :favorites ["思源字体" "Learning Clojure" "nextjs mdx rendering" "Logseq Publish GitHub Action" "jsplay"]}
