@@ -126,7 +126,7 @@
  :feature/enable-journals? true
  :default-home {:page "journals" :sidebar "contents"}
  :ui/show-brackets? true
- :journal/page-title-format "年yyyy-月M-日D-星期E-周w"
+ :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["日刊""周刊"""]
- }
+ :favorites ["日刊""周刊""杨超越"]
+}

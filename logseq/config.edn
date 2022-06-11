@@ -119,7 +119,7 @@
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
 
- :start-of-week 0
+ :start-of-week 6
 
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
@@ -128,5 +128,5 @@
  :ui/show-brackets? true
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["刊" "日刊" "周刊" "杨超越"]
+ :favorites ["刊" "日刊" "周刊"]
 }
