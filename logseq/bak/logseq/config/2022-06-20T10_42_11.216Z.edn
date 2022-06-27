@@ -122,12 +122,11 @@
  :start-of-week 6
 
  :markdown/version 2
- :shortcuts {:ui/toggle-contents "meta+shift+c"}
+ :shortcuts {:ui/toggle-contents "meta+shift+c", :go/journals "f s", :go/home "f a"}
  :feature/enable-journals? true
  :default-home {:page "刊" :sidebar "contents"}
- :default {: } 
  :ui/show-brackets? true
- :journal/page-title-format "yyyy-MM-dd"
+ :journal/page-title-format "年Y-月M-日D-周w-星期e"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["刊" "日刊" "周刊"]
 }
